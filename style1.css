@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+
+
+.min-h-screen{
+    
+    min-height: 100vh;
+}
+
+
+
+.bg-color{
+
+    background-color:white;
+
+}
+
+.color{
+    color: rgb(98, 12, 98);
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container{
+    max-width: 80vw;
+    font-family: 'Protest Revolution', sans-serif;
+}
+
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.navbar{
+    display: flex;
+    height: 90px;
+    
+}
+
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+
+.text-font{
+    font-weight: bolder;
+}
+.topleft{
+    width: 50%;
+   padding: 12px 0;
+
+}
+.topright{
+    width: 50%;
+
+}
+
+.section1{
+    height: 55vh;
+
+}
+
+.section2{
+    padding-left: 63px;
+    padding-right: 63px;
+
+}
+
+.section2 h1{
+    font-size: 1.8rem;
+}
+
+.section2 p{
+    text-align: center;
+}
+
+
+
+.my-1{
+    margin-top: 13px ;
+    margin-bottom: 13px;
+}
+
+.my-2{
+    margin-top: 13px ;
+    margin-bottom: 13px;
+}
+
+.px-2{
+    padding-left: 26px;
+    padding-right: 26px;
+}
+
+.text-color{
+    color:rgb(69, 66, 66);
+}
+.btn{
+    padding: 7px 12px;
+    border: 2px solid rgb(124, 24, 122);
+    color: white;
+    cursor: pointer;
+    border-radius: 6px;
+    background-color: rgb(103, 17, 105);
+
+}
+
+.overflow-hidden{
+    overflow-x: hidden;
+}
+
+.text-center{
+    text-align:center;
+}
+
+.section1-h1{
+    font-size: 2rem;
+}
+
+.box{
+    padding: 8px 0;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border-radius: 8px;
+    border: 2px solid black;
+    text-align: center
+}
+
+.box ul{
+    list-style: none;
+
+}
+
+.box ul li{
+ margin: 12px 2px;
+
+}
+
+.box h2{
+    font-size: 2rem;
+    padding: 12px 0;
+}
+
+.highlighted{
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+footer{
+    padding: 23px;
+    text-align: center;
+}
